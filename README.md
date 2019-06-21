@@ -24,5 +24,5 @@
 | 3 | F |
 
 # Code...
-Initial ideas and working in .ipynb files
-Above example is example_data.csv 
+Initial ideas and working in .ipynb files.
+The above example is example_data.csv 
