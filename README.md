@@ -24,5 +24,4 @@
 | 3 | F |
 
 # Code...
-. Initial ideas and working is located in .ipynb files.
-. The above example is example_data.csv 
+Initial ideas and working is located in .ipynb files. The above example is example_data.csv.
