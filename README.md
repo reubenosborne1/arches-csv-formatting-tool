@@ -6,22 +6,22 @@
 
 
 # Example 
-| ResourceID  | Subject(s) |
-|---|---|
-| 1 |  A |
-| 2 | B $ C $ D|
-| 3 | E $ F |
+| ResourceID  | Column 1 | Column 2 | 
+|---|---|---|
+| 1 |  A | X | 
+| 2 | B $ C $ D| Y |
+| 3 | E $ F | Z |
 
  Needs to be converted to this... 
 
-| ResourceID  | Subject(s) |
-|---|---|
-| 1 | A |
-| 2 | B |
-| 2 | C |
-| 2 | D |
-| 3 | E |
-| 3 | F |
+| ResourceID  | Column 1 | Column 2 |
+|---|---|---|
+| 1 | A | X | 
+| 2 | B | Y | 
+| 2 | C |   |
+| 2 | D |   |
+| 3 | E | Z |
+| 3 | F |   |
 
 # Code...
 Initial ideas and working is located in .ipynb files. The above example is example_data.csv.
